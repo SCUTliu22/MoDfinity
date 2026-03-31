@@ -1,7 +1,6 @@
-下面直接给你完整可保存为 **README.md** 的内容，复制粘贴即可用。
 
 # MODfinity
-A modular, infinitely extensible framework for building dynamic, plugin‑driven systems.
+A fine-grained information control framework for domain adaptation.
 
 ## Overview
 MODfinity is a lightweight, flexible modular framework designed for applications that require runtime extensibility, dynamic module management, and clean separation of concerns. It provides a unified architecture for loading, starting, stopping, and communicating between modules without tight coupling.
